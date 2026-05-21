@@ -1,0 +1,816 @@
+-- ts file was generated at discord.gg/25ms
+
+local _LocalPlayer4 = game:GetService('Players').LocalPlayer
+
+task.spawn(function(_9, _9_2, _9_3, _9_4)
+    task.wait(2)
+    _LocalPlayer4:IsInGroup(6611131)
+
+    local _call13 = Instance.new('ScreenGui')
+
+    _call13.IgnoreGuiInset = true
+    _call13.DisplayOrder = 99999
+    _call13.ResetOnSpawn = false
+    _call13.Parent = _LocalPlayer4:WaitForChild('PlayerGui')
+
+    local _call15 = Instance.new('ImageLabel')
+
+    _call15.Size = UDim2.new(1, 0, 1, 0)
+    _call15.Position = UDim2.new(0, 0, 0, 0)
+    _call15.BackgroundTransparency = 1
+    _call15.Image = 'rbxassetid://125597809575965'
+    _call15.ScaleType = Enum.ScaleType.Stretch
+    _call15.ImageTransparency = 1
+    _call15.Parent = _call13
+
+    local _call23 = Instance.new('Frame')
+
+    _call23.Size = UDim2.new(0.6, 0, 0.03, 0)
+    _call23.Position = UDim2.new(0.2, 0, 0.9, 0)
+    _call23.BackgroundColor3 = Color3.fromRGB(200, 200, 200)
+    _call23.BorderSizePixel = 0
+    _call23.AnchorPoint = Vector2.new(0, 0)
+    _call23.ClipsDescendants = true
+    _call23.Parent = _call13
+    _call23.Rotation = 0
+    _call23.BackgroundTransparency = 0
+
+    local _call33 = Instance.new('UICorner')
+
+    _call33.CornerRadius = UDim.new(0, 12)
+    _call33.Parent = _call23
+
+    local _call37 = Instance.new('Frame')
+
+    _call37.Size = UDim2.new(0, 0, 1, 0)
+    _call37.Position = UDim2.new(0, 0, 0, 0)
+    _call37.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call37.BorderSizePixel = 0
+    _call37.Parent = _call23
+
+    local _call45 = Instance.new('UICorner')
+
+    _call45.CornerRadius = UDim.new(0, 12)
+    _call45.Parent = _call37
+    _call15.ImageTransparency = 1
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.98
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.96
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.94
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.92
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.9
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.88
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.86
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.84
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.8200000000000001
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.8
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.78
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.76
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.74
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.72
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.7
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.6799999999999999
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.6599999999999999
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.6399999999999999
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.6199999999999999
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.5999999999999999
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.5799999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.5599999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.5399999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.5199999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.4999999999999999
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.47999999999999987
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.45999999999999985
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.43999999999999984
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.4199999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.3999999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.3799999999999998
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.35999999999999976
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.33999999999999975
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.31999999999999973
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.2999999999999997
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.2799999999999997
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.2599999999999997
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.23999999999999966
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.21999999999999964
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.19999999999999962
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.1799999999999996
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.1599999999999996
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.13999999999999957
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.11999999999999955
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.09999999999999953
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.07999999999999952
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.0599999999999995
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.03999999999999948
+
+    task.wait(0.04)
+
+    _call15.ImageTransparency = 0.019999999999999463
+
+    task.wait(0.04)
+
+    _call37.Size = UDim2.new(0.006666666666666667, 0, 1, 0)
+
+    local _call51 = Instance.new('Frame')
+
+    _call51.Size = UDim2.new(0, 4, 0, 4)
+    _call51.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call51.BorderSizePixel = 0
+    _call51.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call51.Position = UDim2.new(0.7033458379258676, 0, 0, 0)
+    _call51.BackgroundTransparency = 0
+    _call51.Parent = _call13
+
+    task.spawn(function(_62, _62_2)
+        local _ = _call51.Parent
+        local _ = _call51.Position.Y.Scale
+
+        error('line 1: attempt to compare table < number')
+    end)
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.013333333333333334, 0, 1, 0)
+
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.02, 0, 1, 0)
+
+    local _call72 = Instance.new('Frame')
+
+    _call72.Size = UDim2.new(0, 4, 0, 4)
+    _call72.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call72.BorderSizePixel = 0
+    _call72.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call72.Position = UDim2.new(0.8698473692266686, 0, 0, 0)
+    _call72.BackgroundTransparency = 0
+    _call72.Parent = _call13
+
+    task.spawn(function(_83, _83_2)
+        local _ = _call72.Parent
+        local _ = _call72.Position.Y.Scale
+
+        error('line 1: attempt to compare table < number')
+    end)
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.02666666666666667, 0, 1, 0)
+
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.03333333333333333, 0, 1, 0)
+
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.04, 0, 1, 0)
+
+    local _call95 = Instance.new('Frame')
+
+    _call95.Size = UDim2.new(0, 4, 0, 4)
+    _call95.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call95.BorderSizePixel = 0
+    _call95.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call95.Position = UDim2.new(0.31960438155069965, 0, 0, 0)
+    _call95.BackgroundTransparency = 0
+    _call95.Parent = _call13
+
+    task.spawn(function(_106, _106_2)
+        local _ = _call95.Parent
+        local _ = _call95.Position.Y.Scale
+
+        error('line 1: attempt to compare table < number')
+    end)
+
+    local _call112 = Instance.new('Frame')
+
+    _call112.Size = UDim2.new(0, 4, 0, 4)
+    _call112.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call112.BorderSizePixel = 0
+    _call112.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call112.Position = UDim2.new(0.11547737864703114, 0, 0, 0)
+    _call112.BackgroundTransparency = 0
+    _call112.Parent = _call13
+
+    task.spawn(function(_123, _123_2)
+        local _ = _call112.Parent
+        local _ = _call112.Position.Y.Scale
+
+        error('line 1: attempt to compare table < number')
+    end)
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.04666666666666667, 0, 1, 0)
+
+    local _call131 = Instance.new('Frame')
+
+    _call131.Size = UDim2.new(0, 4, 0, 4)
+    _call131.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call131.BorderSizePixel = 0
+    _call131.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call131.Position = UDim2.new(0.7994716806089729, 0, 0, 0)
+    _call131.BackgroundTransparency = 0
+    _call131.Parent = _call13
+
+    task.spawn(function(_142, _142_2)
+        error('internal 582: <25ms: infinitelooperror>')
+    end)
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.05333333333333334, 0, 1, 0)
+
+    local _call147 = Instance.new('Frame')
+
+    _call147.Size = UDim2.new(0, 4, 0, 4)
+    _call147.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call147.BorderSizePixel = 0
+    _call147.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call147.Position = UDim2.new(0.18420811877494406, 0, 0, 0)
+    _call147.BackgroundTransparency = 0
+    _call147.Parent = _call13
+
+    task.spawn(function(_158, _158_2)
+        error('internal 582: <25ms: infinitelooperror>')
+    end)
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.06, 0, 1, 0)
+
+    local _call163 = Instance.new('Frame')
+
+    _call163.Size = UDim2.new(0, 4, 0, 4)
+    _call163.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call163.BorderSizePixel = 0
+    _call163.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call163.Position = UDim2.new(0.7854457865884336, 0, 0, 0)
+    _call163.BackgroundTransparency = 0
+    _call163.Parent = _call13
+
+    task.spawn(function(_174, _174_2) end)
+    task.wait(0.02)
+
+    _call37.Size = UDim2.new(0.06666666666666667, 0, 1, 0)
+
+    local _call178 = Instance.new('Frame')
+
+    _call178.Size = UDim2.new(0, 4, 0, 4)
+    _call178.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call178.BorderSizePixel = 0
+    _call178.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call178.Position = UDim2.new(0.5925315210981777, 0, 0, 0)
+    _call178.BackgroundTransparency = 0
+    _call178.Parent = _call13
+
+    task.spawn(function(_189, _189_2) end)
+
+    local _call191 = Instance.new('Frame')
+
+    _call191.Size = UDim2.new(0, 4, 0, 4)
+    _call191.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    _call191.BorderSizePixel = 0
+    _call191.AnchorPoint = Vector2.new(0.5, 0.5)
+    _call191.Position = UDim2.new(0.8978323506565793, 0, 0, 0)
+    _call191.BackgroundTransparency = 0
+    _call191.Parent = _call13
+
+    local _ = task.spawn
+
+    error('internal 582: <25ms: infinitelooperror>')
+end)
+
+local _206 = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+wait(10)
+
+local _call208 = _206:CreateWindow({
+    LoadingTitle = 'RAZE MENU',
+    KeySettings = {
+        Subtitle = 'BILI KA MUNA KEY',
+        Title = 'RAZEHUB',
+        Key = {
+            [1] = 'https://pastebin.com/raw/kAZMFJMZ',
+        },
+        GrabKeyFromSite = true,
+        SaveKey = true,
+        FileName = 'TEST RAZE',
+        Note = 'BILI KA KEY TO ACCESS',
+    },
+    KeySystem = true,
+    DisableBuildWarnings = false,
+    Discord = {
+        Enabled = false,
+        RememberJoins = true,
+        Invite = 'T4mVp3XYf8',
+    },
+    ConfigurationSaving = {
+        Enabled = true,
+        FileName = 'Shawn made Ts',
+    },
+    DisableRayfieldPrompts = false,
+    Name = 'RAZE MENU V7 ',
+    ToggleUIKeybind = 'K',
+    Theme = 'Default',
+    LoadingSubtitle = 'BY SHAWN SAINT',
+    Icon = 0,
+    ShowText = 'Rayfield',
+})
+local _call210 = _call208:CreateTab('MAIN', 4483362458)
+
+_call210:CreateSection('ROLEPLAY')
+_call210:CreateButton({
+    Name = 'MONEY DUPE ALL GAME',
+    Callback = function(_215, _215_2) end,
+})
+_call210:CreateButton({
+    Name = 'DUPE Silenced Pistol',
+    Callback = function(_218) end,
+})
+_call210:CreateButton({
+    Name = 'Drop all tools',
+    Callback = function(_221, _221_2, _221_3, _221_4, _221_5) end,
+})
+_call210:CreateButton({
+    Name = 'AUTO BUY Silenced Pistol',
+    Callback = function(_224, _224_2, _224_3, _224_4) end,
+})
+_call210:CreateButton({
+    Name = 'Dex Explorer',
+    Callback = function() end,
+})
+_call210:CreateButton({
+    Name = 'Hit Box Expander',
+    Callback = function(_230, _230_2, _230_3, _230_4, _230_5) end,
+})
+
+local _call232 = _call208:CreateTab('SENTRO PINAS', 4483362458)
+
+_call232:CreateSection('ROLEPLAY')
+_call210:CreateButton({
+    Name = 'INFINITE YIELD',
+    Callback = function() end,
+})
+_call210:CreateButton({
+    Name = 'PROXIMITY PROMPT NO COOLDOWN',
+    Callback = function(_240, _240_2, _240_3, _240_4, _240_5) end,
+})
+_call210:CreateButton({
+    Name = 'ESP',
+    Callback = function(_243) end,
+})
+_call210:CreateButton({
+    Name = 'TOUCH FLING',
+    Callback = function() end,
+})
+_call210:CreateButton({
+    Name = 'BIG HEAD',
+    Callback = function(_249, _249_2, _249_3) end,
+})
+_call210:CreateButton({
+    Name = 'BRING ALL',
+    Callback = function(_252, _252_2, _252_3) end,
+})
+_call210:CreateButton({
+    Name = 'AIMBOT TOGGLE ON/OFF',
+    Callback = function() end,
+})
+_call210:CreateButton({
+    Name = 'FLING ALL',
+    Callback = function() end,
+})
+_call232:CreateButton({
+    Name = 'SILENCED PSITOL',
+    Callback = function(_261, _261_2, _261_3, _261_4) end,
+})
+_call232:CreateButton({
+    Name = 'UZI',
+    Callback = function(_264) end,
+})
+
+local _call266 = _call208:CreateTab('LA URBAN CITY', 4483362458)
+
+_call266:CreateSection('LA URBAN CITY')
+_call266:CreateButton({
+    Name = 'Silenced Pistol',
+    Callback = function(_271, _271_2) end,
+})
+
+local _call273 = _call208:CreateTab('LUCIO CITY', 4483362458)
+
+_call273:CreateSection('LUCIO CITY')
+_call273:CreateButton({
+    Name = 'SILENCED PISTOL',
+    Callback = function(_278, _278_2, _278_3, _278_4) end,
+})
+_call273:CreateButton({
+    Name = 'VECTOR',
+    Callback = function(_281, _281_2, _281_3) end,
+})
+_call273:CreateButton({
+    Name = 'Glock-17',
+    Callback = function() end,
+})
+_call273:CreateButton({
+    Name = 'Oxy',
+    Callback = function() end,
+})
+_call273:CreateButton({
+    Name = 'Glock-17 auto buy',
+    Callback = function() end,
+})
+
+local _call292 = _call208:CreateTab('San Verde Rp', 4483362458)
+
+_call292:CreateSection('DUPE GUN')
+_call292:CreateButton({
+    Name = 'PISTOL',
+    Callback = function(_297, _297_2, _297_3) end,
+})
+_call292:CreateButton({
+    Name = 'PISTOL AUTO BUY',
+    Callback = function(_300, _300_2, _300_3, _300_4) end,
+})
+
+local _call302 = _call208:CreateTab('Prestige RP', 4483362458)
+
+_call302:CreateSection('DUPE GUN')
+_call302:CreateButton({
+    Name = 'SILENCED PISTOL AUTO BUY 100x',
+    Callback = function(_307, _307_2, _307_3) end,
+})
+_call302:CreateButton({
+    Name = 'Silenced pistol 1x',
+    Callback = function(_310, _310_2, _310_3) end,
+})
+_call302:CreateButton({
+    Name = 'PRIME',
+    Callback = function() end,
+})
+
+local _call315 = _call208:CreateTab('PRIME CITY', 4483362458)
+
+_call315:CreateSection('DUPE GUN')
+_call315:CreateButton({
+    Name = 'TASER',
+    Callback = function() end,
+})
+_call315:CreateButton({
+    Name = 'HK (admin gun)',
+    Callback = function(_323, _323_2, _323_3) end,
+})
+_call315:CreateButton({
+    Name = 'YBD (EXCLUSIVE)',
+    Callback = function(_326, _326_2) end,
+})
+_call315:CreateButton({
+    Name = 'art (exclu)',
+    Callback = function() end,
+})
+_call315:CreateButton({
+    Name = 'PRINCE (exclu)',
+    Callback = function(_332, _332_2, _332_3, _332_4) end,
+})
+_call315:CreateButton({
+    Name = 'ryn (exclu)',
+    Callback = function(_335, _335_2, _335_3, _335_4) end,
+})
+_call315:CreateButton({
+    Name = 'YBD (EXCLUSIVE) auto buy 100x',
+    Callback = function(_338, _338_2) end,
+})
+_call315:CreateButton({
+    Name = 'popcorn auto buy(use with inf yield)',
+    Callback = function(_341, _341_2) end,
+})
+
+local _call343 = _call208:CreateTab('Bagong Bario', 4483362458)
+
+_call343:CreateSection('DUPE GUN')
+_call343:CreateButton({
+    Name = 'Silenced Pistol',
+    Callback = function(_348, _348_2, _348_3, _348_4, _348_5) end,
+})
+_call343:CreateButton({
+    Name = 'Crowbar',
+    Callback = function(_351, _351_2) end,
+})
+_call343:CreateButton({
+    Name = 'Pen Gun',
+    Callback = function(_354) end,
+})
+_call343:CreateButton({
+    Name = 'AK47 MAY LOGS TO',
+    Callback = function(_357, _357_2, _357_3, _357_4, _357_5) end,
+})
+_call343:CreateButton({
+    Name = 'MCX (MAHABA,MAY LOGS)',
+    Callback = function(_360) end,
+})
+_call343:CreateButton({
+    Name = 'MP5',
+    Callback = function(_363, _363_2, _363_3) end,
+})
+_call343:CreateButton({
+    Name = 'Light Vest',
+    Callback = function(_366, _366_2) end,
+})
+_call343:CreateButton({
+    Name = 'G36C',
+    Callback = function(_369, _369_2, _369_3, _369_4) end,
+})
+_call343:CreateButton({
+    Name = 'Tommy Gun',
+    Callback = function(_372, _372_2) end,
+})
+_call343:CreateButton({
+    Name = 'Minigun',
+    Callback = function(_375, _375_2, _375_3) end,
+})
+
+local _call377 = _call208:CreateTab('Dsource', 4483362458)
+
+_call377:CreateSection('DUPE GUN')
+_call377:CreateButton({
+    Name = 'Silenced Pistol',
+    Callback = function(_382, _382_2, _382_3, _382_4, _382_5) end,
+})
+_call377:CreateButton({
+    Name = 'Silenced Pistol auto buy 100x',
+    Callback = function(_385, _385_2, _385_3, _385_4, _385_5) end,
+})
+_call377:CreateButton({
+    Name = 'Smoke Grenade',
+    Callback = function(_388, _388_2) end,
+})
+_call377:CreateButton({
+    Name = 'Taser',
+    Callback = function() end,
+})
+_call377:CreateButton({
+    Name = 'Glock-17',
+    Callback = function(_394, _394_2, _394_3, _394_4) end,
+})
+_call377:CreateButton({
+    Name = 'Glock-19',
+    Callback = function(_397, _397_2) end,
+})
+_call377:CreateButton({
+    Name = 'BURGER',
+    Callback = function(_400, _400_2, _400_3, _400_4, _400_5) end,
+})
+_call377:CreateButton({
+    Name = 'BURGER 100x',
+    Callback = function(_403, _403_2, _403_3) end,
+})
+
+local _call405 = _call208:CreateTab('MAHARLIKA Rp', 4483362458)
+
+_call377:CreateSection('DUPE GUN')
+_call405:CreateButton({
+    Name = 'Rocket Launcher',
+    Callback = function(_410, _410_2, _410_3, _410_4) end,
+})
+_call405:CreateButton({
+    Name = 'Silenced Pistol',
+    Callback = function(_413, _413_2, _413_3, _413_4, _413_5) end,
+})
+_call405:CreateButton({
+    Name = 'Granade Launcher',
+    Callback = function(_416, _416_2, _416_3) end,
+})
+_call405:CreateButton({
+    Name = 'flamethrower',
+    Callback = function(_419, _419_2, _419_3, _419_4, _419_5) end,
+})
+_call405:CreateButton({
+    Name = 'Railgun(OP)',
+    Callback = function(_422, _422_2) end,
+})
+_call405:CreateButton({
+    Name = 'Taser',
+    Callback = function(_425, _425_2, _425_3, _425_4) end,
+})
+_call405:CreateButton({
+    Name = 'Popcorn',
+    Callback = function(_428, _428_2, _428_3, _428_4, _428_5) end,
+})
+_call405:CreateButton({
+    Name = 'autobuy popcorn 100x',
+    Callback = function(_431) end,
+})
+_call405:CreateButton({
+    Name = 'autobuy RocketLauncher 100x',
+    Callback = function(_434, _434_2, _434_3, _434_4, _434_5) end,
+})
+
+local _call436 = _call208:CreateTab('Crimson City RP', 4483362458)
+
+_call436:CreateSection('DUPE GUN')
+_call436:CreateButton({
+    Name = 'Pilyo gun',
+    Callback = function(_441, _441_2, _441_3, _441_4) end,
+})
+_call436:CreateButton({
+    Name = 'HK416',
+    Callback = function() end,
+})
+_call436:CreateButton({
+    Name = 'PD SKIN',
+    Callback = function(_447, _447_2, _447_3) end,
+})
+_call436:CreateButton({
+    Name = 'Glock-17',
+    Callback = function(_450) end,
+})
+_call436:CreateButton({
+    Name = 'Taser',
+    Callback = function(_453, _453_2, _453_3) end,
+})
+_call436:CreateButton({
+    Name = 'Auto pop corn 100x',
+    Callback = function(_456) end,
+})
+
+local _call458 = _call208:CreateTab('PinoySeldaRp', 4483362458)
+
+_call458:CreateSection('DUPE GUN')
+_call458:CreateButton({
+    Name = 'AUTO RECYCLE FARM',
+    Callback = function(_463, _463_2, _463_3) end,
+})
+_call458:CreateButton({
+    Name = 'AUTO COMSERV(whitelisted)',
+    Callback = function(_466) end,
+})
+_call458:CreateButton({
+    Name = 'AUTO SEARCH(whitelisted)',
+    Callback = function(_469, _469_2, _469_3, _469_4) end,
+})
+
+local _call471 = _call208:CreateTab('Aluxus Rp', 4483362458)
+
+_call471:CreateSection('DUPE GUN')
+_call471:CreateButton({
+    Name = 'M4A1',
+    Callback = function(_476, _476_2, _476_3, _476_4, _476_5) end,
+})
+_call471:CreateButton({
+    Name = 'Silenced Pistol',
+    Callback = function(_479, _479_2, _479_3, _479_4, _479_5) end,
+})
+_call471:CreateButton({
+    Name = 'Taser',
+    Callback = function(_482, _482_2, _482_3, _482_4, _482_5) end,
+})
+_call471:CreateButton({
+    Name = 'Glock-17',
+    Callback = function(_485, _485_2, _485_3, _485_4, _485_5) end,
+})
+_call471:CreateButton({
+    Name = 'Baton',
+    Callback = function() end,
+})
+_call471:CreateButton({
+    Name = 'GIVE ALL GUN TP',
+    Callback = function(_491) end,
+})
